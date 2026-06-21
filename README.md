@@ -5,15 +5,13 @@
 
 
 
-# 🚀 InterviewIQ.AI
+# Mentora_AI
 
 An AI-powered mock interview platform that helps users practice technical and HR interviews with real-time question generation, resume analysis, and performance tracking.
 
-🌐 **Live Demo:** https://my-ai-interview-frontend.onrender.com
-
 ---
 
-## 📌 Overview
+##  Overview
 
 InterviewIQ.AI simulates real interview scenarios using AI. Users can sign in with Google, upload their resume, select a role and experience level, and participate in a personalized mock interview.
 
